@@ -30,7 +30,7 @@ export default function Header() {
       </nav>
 
       <a
-        href="mailto:owners@nexabusinesspark.com"
+        href="mailto:info@nexabusinesspark.com"
         className="rounded-full border border-white/15 bg-white/5 px-4 py-2 text-xs font-medium text-white/90 backdrop-blur-sm transition-all hover:border-gold/50 hover:text-gold sm:text-sm"
       >
         Get in touch

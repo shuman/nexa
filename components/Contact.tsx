@@ -43,7 +43,7 @@ export default function Contact() {
 
         {/* Email */}
         <a
-          href="mailto:owners@nexabusinesspark.com"
+          href="mailto:info@nexabusinesspark.com"
           className="group flex items-start gap-4 text-left"
         >
           <span className="mt-0.5 inline-flex h-10 w-10 flex-shrink-0 items-center justify-center rounded-xl bg-white/5 text-gold transition-colors group-hover:bg-gold/15">
@@ -57,7 +57,7 @@ export default function Contact() {
               Email
             </span>
             <span className="mt-1 block break-all text-sm text-white/80 transition-colors group-hover:text-gold">
-              owners@nexabusinesspark.com
+              info@nexabusinesspark.com
             </span>
           </span>
         </a>
