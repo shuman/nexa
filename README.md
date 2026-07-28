@@ -56,4 +56,4 @@ public/
 - 📍 Plot 844/E, Block I, Bashundhara Residential Area, Dhaka 1229
 - ✉️ info@nexabusinesspark.com
 
-© 2026 NEXA Land Owners Association. All Rights Reserved.
+© 2026 NEXA Business Park. All Rights Reserved.

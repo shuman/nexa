@@ -20,7 +20,7 @@ export const metadata: Metadata = {
     "Bashundhara commercial",
     "business park Bangladesh",
   ],
-  authors: [{ name: "NEXA Land Owners Association" }],
+  authors: [{ name: "NEXA Business Park" }],
   manifest: "/site.webmanifest",
   icons: {
     icon: [
